@@ -16,4 +16,4 @@ back_cal.py主要用来哈代克罗斯法迭代，输出结果，并计算程序
 
 值得注意的是当有deadlink时，应把支状部分简化到最近的环路节点上。
 
-（具体功能在注释里很详细，如有疑问可在我的[个人主页](https://marx-htf.github.io/)找到我的联系方式,也可通过我的[博客园](https://www.cnblogs.com/w-netboy/p/12074683.html)联系我）
+（具体功能在注释里很详细，如有疑问可通过我的[博客园](https://www.cnblogs.com/w-netboy/p/12074683.html)联系我）
